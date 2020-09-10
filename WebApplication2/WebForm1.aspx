@@ -13,6 +13,8 @@
             Under local Git Repositories > right click on the name of the repository (WebApplication2) and click open
             click sync. Select Push to github or Push to remote Repository
             or under repository settings > remotes > add
+            push changes
+
         </div>
     </form>
 </body>
