@@ -14,7 +14,7 @@
             click sync. Select Push to github or Push to remote Repository
             or under repository settings > remotes > add
             push changes
-            tweee
+           gggggg
 
         </div>
     </form>
